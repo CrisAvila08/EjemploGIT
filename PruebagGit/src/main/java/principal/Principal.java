@@ -9,6 +9,7 @@ public class Principal {
 		System.out.println ("Sigo con mi programa");
 		System.out.println ("Añado funcionalidades");
 		
+		System.out.println("Version GitHub");
 		
 	}
 
