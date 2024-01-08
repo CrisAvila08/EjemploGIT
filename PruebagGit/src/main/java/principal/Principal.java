@@ -11,6 +11,8 @@ public class Principal {
 		
 		System.out.println("Version GitHub");
 		System.out.println("Version Editada por un compañero el domingo");
+		System.out.println("Sigue trabajando en la rama master");
+		
 	}
 
 }
