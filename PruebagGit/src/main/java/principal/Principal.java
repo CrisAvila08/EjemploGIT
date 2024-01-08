@@ -10,7 +10,7 @@ public class Principal {
 		System.out.println ("Añado funcionalidades");
 		
 		System.out.println("Version GitHub");
-		
+		System.out.println("Version Editada por un compañero el domingo");
 	}
 
 }
